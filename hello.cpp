@@ -1,6 +1,6 @@
-#include &lt;iostream&gt;
+#include <iostream>
 using namespace std;
 int main() {
-cout &lt;&lt; &quot;Hello BBIT Students!&quot; &lt;&lt; endl;
+cout <<"Hello BBIT Students!" endl;
 return 0;
 }
